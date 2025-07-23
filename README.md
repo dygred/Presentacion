@@ -1,29 +1,36 @@
-# 👨‍🏫 Profesor Greddy Hernández
+# 🌟 Presentación Profesional – Dygred Hernández
 
-Bienvenido a mi presentación profesional. Soy docente con más de dos décadas de experiencia en informática y tecnología.
+¡Hola! Bienvenido a mi primer repositorio en GitHub. Este proyecto es parte de mi proceso de aprendizaje en Git, GitHub y desarrollo profesional como docente y emprendedor tecnológico.
 
-## 🚀 Habilidades Técnicas
-- Programación en C# y Python
-- HTML, CSS, JavaScript
-- SQL, MySQL
-- Seguridad Informática
-- Diseño en Canva e Illustrator
+## 📄 ¿Qué contiene este repositorio?
 
-## 🎓 Experiencia Docente
-- Universidad Fidélitas
-- Universidad Tecnológica de Costa Rica
-- Instituto Nacional de Aprendizaje (INA)
-- CTP José María Zeledón Brenes
+- Un archivo `README.md` escrito en **Markdown**
+- Uso básico de comandos de Git
+- Conexión exitosa con **GitHub**
+- Práctica de buenas prácticas de documentación
 
-## 📁 Proyectos
-- Curso de Programación Web
-- Proyecto Wild Routes 506
-- Cursos de Ciberseguridad para secundaria técnica
+## 🚀 Propósito del proyecto
 
-## 📫 Contacto
-- 📧 greddy@ejemplo.com
-- 🌐 [Tu sitio o LinkedIn aquí]
+Este repositorio tiene como objetivo demostrar dominio inicial de herramientas como:
+
+- `Git` para control de versiones
+- `GitHub` para trabajo colaborativo y publicación en línea
+- `Markdown` para documentación clara y estructurada
+
+## 🧠 ¿Quién soy?
+
+Soy **Dygred Hernández**, profesor de informática, desarrollador en formación, y creador del proyecto **Wild Routes 506** 🚐🌿. Me apasiona la educación, la tecnología y el emprendimiento con impacto.
+
+## ✅ Próximos pasos
+
+- [ ] Aprender a crear ramas (`git branch`)
+- [ ] Realizar `merge` de ramas y resolver conflictos
+- [ ] Automatizar tareas con GitHub Actions
+- [ ] Crear una página web con GitHub Pages
 
 ---
 
-¡Gracias por visitar mi repositorio!
+📬 ¿Quieres saber más o colaborar?  
+Escribime o visitá mis redes sociales (¡próximamente en este espacio!).
+
+---
